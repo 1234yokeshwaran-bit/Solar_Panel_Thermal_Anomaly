@@ -1,0 +1,1 @@
+# Solar_Panel_Thermal_Anomaly
